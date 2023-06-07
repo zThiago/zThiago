@@ -1,5 +1,4 @@
 - Olá, Eu sou Thiago, mais conhecido como Anjo 👋
-- Atualmente curso o Ensino Médio.
 
 # Todas as minhas contribuições
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zThiago&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

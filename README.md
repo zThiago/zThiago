@@ -1,4 +1,10 @@
-- Olá, Eu sou Thiago, mais conhecido como Anjo 👋
+👋 Olá, Eu sou Thiago, mais conhecido como Anjo Dos Pandas.
+📖 Atualmente cursando faculdade de Análise e Desenvolvimento de Sistemas.
+# Minhas formações
+- Ensino Médio
+- HTML - Básico
+- HTML - Avançado
+
 
 # Todas as minhas contribuições
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zThiago&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

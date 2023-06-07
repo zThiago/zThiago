@@ -2,7 +2,7 @@
 
 📖 Currently studying Systems Analysis and Development at college.
 # Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,lua,html,css)](https://skillicons.dev)
 
 
 # Todas as minhas contribuições

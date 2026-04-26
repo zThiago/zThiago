@@ -1,4 +1,4 @@
-👋 Hello, I'm Thiago, better known as Anjo Dos Pandas.
+👋 Hello, I'm Thiago, better known as Theo.rion.
 
 📖 Currently studying Systems Analysis and Development at college.
 # Languages

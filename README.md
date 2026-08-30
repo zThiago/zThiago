@@ -1,12 +1,11 @@
 👋 Hello, I'm Thiago, better known as Theo.rion.
 
-📖 Currently studying Systems Analysis and Development at college.
+🎓 Graduated with a Technologist degree in Systems Analysis and Development..
 # Languages
 [![My Skills](https://skillicons.dev/icons?i=js,react,vite,ts,babel,sequelize,prisma,nodejs,php,laravel,lua,html,css,vscode)](https://skillicons.dev)
 
 
 # Todas as minhas contribuições
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zThiago&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=zThiago&theme=dark)
 
-# Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zThiago&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=zThiago&layout=compact&theme=dark) 
